@@ -39,3 +39,6 @@ A hacker-themed standalone GUI tool to generate strong, secure passwords — bui
 3. Run:
    ```bash
    python danger_password_gui.py
+
+### 🔽 Download
+➡ [Click here to download the latest version (.exe)](https://github.com/AnugrahaLK/Password-Generator/releases/tag/v1.0)
